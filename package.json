@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/JakeLeigh/NodeJS-Express-Test-Proj/issues"
   },
-  "homepage": "https://github.com/JakeLeigh/NodeJS-Express-Test-Proj#readme"
+  "homepage": "https://github.com/JakeLeigh/NodeJS-Express-Test-Proj#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
 }
