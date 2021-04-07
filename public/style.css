@@ -145,3 +145,8 @@ a {
   border-bottom: var(--ui-shadow-border);
   box-shadow: var(--ui-shadow);
 }
+
+.UserView {
+  background: url('https://cdn.auth0.com/blog/whatabyte-portal/patio.jpg') left bottom;
+  background-size: cover;
+}
